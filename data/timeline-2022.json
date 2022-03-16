@@ -1,0 +1,419 @@
+{
+  "promo": 2022,
+  "semester": 8,
+  "projects": [
+    {
+      "module": "A.I. : Data science",
+      "project": "A.I. Data Science - Project",
+      "start": "2021-02-01",
+      "end": "2021-02-21",
+      "bttf": false
+    },
+    {
+      "module": "Data Science",
+      "project": "Data Science - Project",
+      "start": "2021-02-01",
+      "end": "2021-02-21",
+      "bttf": false
+    },
+    {
+      "module": "Facilitation & Gamification",
+      "project": "Facilitation & Gamification - Project",
+      "start": "2021-02-01",
+      "end": "2021-02-21",
+      "bttf": false
+    },
+    {
+      "module": "Build an Angular application with API connexion",
+      "project": "Angular Project",
+      "start": "2021-02-01",
+      "end": "2021-02-21",
+      "bttf": false
+    },
+    {
+      "module": "Interview for an international team",
+      "project": "Interview for an international team - Project",
+      "start": "2021-02-01",
+      "end": "2021-02-21",
+      "bttf": false
+    },
+    {
+      "module": "New Business : StartUp",
+      "project": "Project - New Business : StartUp",
+      "start": "2021-02-01",
+      "end": "2021-02-26",
+      "bttf": false
+    },
+    {
+      "module": "IOT - Open Source Arduino Simulator",
+      "project": "IOT - Project",
+      "start": "2021-02-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": " Flutter I : Flutter Beginner",
+      "project": "M - Flutter I Project",
+      "start": "2021-02-01",
+      "end": "2021-03-28",
+      "bttf": false
+    },
+    {
+      "module": "Machine Learning with Python",
+      "project": "Machine Learning with Python - Project",
+      "start": "2021-02-15",
+      "end": "2021-03-07",
+      "bttf": false
+    },
+    {
+      "module": "The Art and Science of Project Management",
+      "project": "The Art and Science of Project Management - Project",
+      "start": "2021-02-15",
+      "end": "2021-03-07",
+      "bttf": false
+    },
+    {
+      "module": "Digital Design",
+      "project": "Digital Design",
+      "start": "2021-02-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Google ranking competition: hands-on SEO experience from A to Z",
+      "project": "Google ranking competition: hands-on SEO experience from A to Z - Project",
+      "start": "2021-02-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Introduction to game development with Unity",
+      "project": "Introduction to game development with Unity - Project",
+      "start": "2021-02-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Cloud Computing Fundamentals",
+      "project": "Cloud Computing Fundamentals - Project",
+      "start": "2021-02-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Lean Startup",
+      "project": "Lean Startup - Project",
+      "start": "2021-02-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "UX/UI : User Experience",
+      "project": "UX/UI : User Experience - Project",
+      "start": "2021-02-15",
+      "end": "2021-04-09",
+      "bttf": false
+    },
+    {
+      "module": "Unity 2D/3D : Programing Mobile VideoGames with Unity",
+      "project": "Project - Unity 2D/3D",
+      "start": "2021-02-15",
+      "end": "2021-04-10",
+      "bttf": false
+    },
+    {
+      "module": "Build an php application with Symfony",
+      "project": "Symfony Projet",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Contribute to Open Source Software",
+      "project": "Contribute to Open Source Software - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Digital Marketing",
+      "project": "Digital Marketing - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Getting ready to start: from planning to pitching your business",
+      "project": "Getting ready to start: from planning to pitching your business - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "GoToMarket Engines",
+      "project": "GoToMarket Engines - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Introduction to quantum computing",
+      "project": "Quantum computer - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Professional Web Development using an open-source DXP (Digital eXperience Platform)",
+      "project": "DXP project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Time-management, Work-life balance, Procrastination",
+      "project": "Time-management, Work-life balance, Procrastination - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "Working in International Virtual Environments",
+      "project": "Working in International Virtual Environments - Project",
+      "start": "2021-03-01",
+      "end": "2021-03-21",
+      "bttf": false
+    },
+    {
+      "module": "CI/CD of an application with its infrastructure dependencies",
+      "project": "CI/CD of an application with its infrastructure dependencies - Project",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Designing websites that sell (storytelling, UX, engagement)",
+      "project": "Designing websites that sell (storytelling, UX, engagement) - Project",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "English Language for Tech - Professionalism and Fluency",
+      "project": "Professionalism and Fluency",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Finance portfolio & asset management ",
+      "project": "Finance portfolio & asset management - Project",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Machine Learning for NLP",
+      "project": "Machine Learning for NLP",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Offensive Security and Exploitation",
+      "project": "Offensive Security and Exploitation - Project",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Database design and datamodelling",
+      "project": "Database design and datamodelling - Project",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "React Web development: mySpotify",
+      "project": "mySpotify",
+      "start": "2021-03-15",
+      "end": "2021-04-04",
+      "bttf": false
+    },
+    {
+      "module": "Heavy data treatment with GoLang",
+      "project": "Heavy data treatment",
+      "start": "2021-03-15",
+      "end": "2021-04-11",
+      "bttf": false
+    },
+    {
+      "module": "Quantum Computing 2 (QC2)",
+      "project": "Quantum computer - Project",
+      "start": "2021-03-29",
+      "end": "2021-04-17",
+      "bttf": false
+    },
+    {
+      "module": "Mentor Leader",
+      "project": "Mentor Leader - Project",
+      "start": "2021-03-29",
+      "end": "2021-04-18",
+      "bttf": false
+    },
+    {
+      "module": "Modern Javascript development",
+      "project": "Modern Javascript development - Project",
+      "start": "2021-03-29",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": "StartUp Finance",
+      "project": "StartUp Finance - Project",
+      "start": "2021-03-29",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": "Agile Experience",
+      "project": "Agile experience - Project",
+      "start": "2021-03-29",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": " Flutter I : Flutter Beginner",
+      "project": "Project - Flutter I: Begginer",
+      "start": "2021-03-29",
+      "end": "2021-05-17",
+      "bttf": false
+    },
+    {
+      "module": "Flutter II : Flutter & Firebase Cloud Firestore Advanced",
+      "project": "Project - Flutter II: Flutter & Firebase Cloud Firestore Advanced",
+      "start": "2021-03-29",
+      "end": "2021-05-18",
+      "bttf": false
+    },
+    {
+      "module": "A.I. : Deep Learning",
+      "project": "A.I. : Deep Learning - Project",
+      "start": "2021-03-29",
+      "end": "2021-05-22",
+      "bttf": false
+    },
+    {
+      "module": "A.I. : Machine Learning",
+      "project": "A.I. : Machine Learning - Project",
+      "start": "2021-03-29",
+      "end": "2021-05-22",
+      "bttf": false
+    },
+    {
+      "module": "Advanced Android Programming",
+      "project": "Advanced Android Programming - Project",
+      "start": "2021-04-12",
+      "end": "2021-05-02",
+      "bttf": false
+    },
+    {
+      "module": "Storytelling for Business",
+      "project": "Storytelling for Business",
+      "start": "2021-04-12",
+      "end": "2021-05-02",
+      "bttf": false
+    },
+    {
+      "module": "Build a Game Server Provider powered by K8S",
+      "project": "Build a Game Server Provider powered by K8S - Project",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Developing Secure Embedded Systems Using the Rust Programming Language",
+      "project": "Developing Secure Embedded Systems Using the Rust Programming Language - Project",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Golang and microservices",
+      "project": "Golang and microservices",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Reliability, Transactions and Distribution",
+      "project": "Reliability, Transactions and Distribution - Project",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "VideoGame Finance",
+      "project": "VideoGame Finance - Project",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Blockchain Principes",
+      "project": "Blockchain Project",
+      "start": "2021-04-12",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "UX/UI : User Interface",
+      "project": "UX/UI : User Interface - Project",
+      "start": "2021-04-12",
+      "end": "2021-06-04",
+      "bttf": false
+    },
+    {
+      "module": "Flutter II : Flutter & Firebase Cloud Firestore Advanced",
+      "project": "M - Flutter II : Flutter & Firebase Cloud Firestore Advanced Project",
+      "start": "2021-04-14",
+      "end": "2021-06-02",
+      "bttf": false
+    },
+    {
+      "module": "Advanced Android Development",
+      "project": "Advanced Android Development - Project",
+      "start": "2021-04-26",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": "iOS Advanced",
+      "project": "iOS Advanced - Project",
+      "start": "2021-04-26",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": "Introduction to React Native",
+      "project": "Introduction to React Native - Project",
+      "start": "2021-04-26",
+      "end": "2021-05-16",
+      "bttf": false
+    },
+    {
+      "module": "JS full stack",
+      "project": "JS full stack - Project",
+      "start": "2021-05-10",
+      "end": "2021-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Intermediate Angular with TDD",
+      "project": "Intermediate Angular with TDD",
+      "start": "2021-05-10",
+      "end": "2021-05-30",
+      "bttf": false
+    }
+  ]
+}

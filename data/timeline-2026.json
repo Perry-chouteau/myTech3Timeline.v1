@@ -1,0 +1,230 @@
+{
+  "promo": 2026,
+  "semester": 1,
+  "projects": [
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_printf",
+            "start": "2021-11-08",
+            "end": "2021-11-21",
+            "bttf": false
+        },
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_ls",
+            "start": "2021-11-22",
+            "end": "2021-12-05",
+            "bttf": false
+        },
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_printf",
+            "start": "2021-12-20",
+            "end": "2022-01-02",
+            "bttf": true
+        },
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_ls",
+            "start": "2021-12-20",
+            "end": "2022-01-02",
+            "bttf": true
+        },
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_ls",
+            "start": "2022-01-30",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Unix System Programming (Part I)",
+            "project": "my_printf",
+            "start": "2022-01-30",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Unix System Programming (Part II)",
+            "project": "navy",
+            "start": "2021-12-06",
+            "end": "2022-01-02",
+            "bttf": false
+        },
+        {
+            "module": "Unix System Programming (Part II)",
+            "project": "minishell1",
+            "start": "2022-01-10",
+            "end": "2022-01-30",
+            "bttf": false
+        },
+        {
+            "module": "Unix System Programming (Part II)",
+            "project": "navy",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Unix System Programming (Part II)",
+            "project": "minishell1",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Networks and Systems Administration",
+            "project": "MyWeb",
+            "start": "2022-01-10",
+            "end": "2022-01-30",
+            "bttf": false
+        },
+        {
+            "module": "Mathematics",
+            "project": "101Pong",
+            "start": "2021-11-08",
+            "end": "2021-11-21",
+            "bttf": false
+        },
+        {
+            "module": "Mathematics",
+            "project": "102architect",
+            "start": "2021-11-22",
+            "end": "2021-12-05",
+            "bttf": false
+        },
+        {
+            "module": "Mathematics",
+            "project": "103cipher",
+            "start": "2021-12-06",
+            "end": "2021-12-12",
+            "bttf": false
+        },
+        {
+            "module": "Mathematics",
+            "project": "104intersection",
+            "start": "2021-12-20",
+            "end": "2022-01-09",
+            "bttf": false
+        },
+        {
+            "module": "Mathematics",
+            "project": "105torus",
+            "start": "2022-01-10",
+            "end": "2022-01-23",
+            "bttf": false
+        },
+        {
+            "module": "Elementary Programming in C",
+            "project": "BSQ",
+            "start": "2021-11-08",
+            "end": "2021-11-28",
+            "bttf": false
+        },
+        {
+            "module": "Elementary Programming in C",
+            "project": "pushswap",
+            "start": "2021-11-29",
+            "end": "2021-12-19",
+            "bttf": false
+        },
+        {
+          "module": "Elementary Programming in C",
+          "project": "antman",
+          "start": "2022-01-03",
+          "end": "2022-01-24",
+          "bttf": false
+      },
+        {
+            "module": "Elementary Programming in C",
+            "project": "BSQ",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Elementary Programming in C",
+            "project": "pushswap",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "Elementary Programming in C",
+            "project": "antman",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyHunter",
+            "start": "2021-11-15",
+            "end": "2021-12-05",
+            "bttf": false
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyScreensaver",
+            "start": "2021-11-15",
+            "end": "2021-12-05",
+            "bttf": false
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyRadar",
+            "start": "2021-12-06",
+            "end": "2022-01-09",
+            "bttf": false
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyRunner",
+            "start": "2021-12-06",
+            "end": "2022-01-09",
+            "bttf": false
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyHunter",
+            "start": "2021-12-20",
+            "end": "2022-01-31",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyScreensaver",
+            "start": "2021-12-20",
+            "end": "2022-01-31",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyRadar",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyRunner",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyHunter",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        },
+        {
+            "module": "C Graphical Programming",
+            "project": "MyScreensaver",
+            "start": "2022-01-31",
+            "end": "2022-02-13",
+            "bttf": true
+        }
+    ]
+}
