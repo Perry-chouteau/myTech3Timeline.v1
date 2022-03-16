@@ -140,44 +140,8 @@ function nowLine(div) {
 
 var repourl = "https://github.com/Perry-chouteau/myTech2Timeline.v2";
 $(document).ready(function () {
-  $.getJSON(
-    "https://gitlab.com/api/v4/projects/epi-codes%2fEpitech-2023-Timeline/repository/commits",
-    function (json) {
-      var msg, el, date;
 
-      $("#changelog-container").empty();
-
-      for (var i = 0; i < json.length; i++) {
-        msg = json[i].message.split("\n");
-        date = moment(json[i].created_at);
-        el = $(`<p class="commit">
-<a href="${repourl}/commit/${json[i].id}" target="_blank" class="commit-msg">${
-          msg[0]
-        }</a>
-<span title="${date.format(
-          "dddd, MMMM Do YYYY, h:mm:ss a"
-        )}" class="commit-date">${date.fromNow()}</span>
-</p>`);
-        if (msg.length > 1) {
-          for (var j = msg.length - 1; j >= 1; j--) {
-            if (msg[j].length > 0) {
-              el.addClass("expanded");
-              el.find("a").after(`<span class="commit-desc">${msg[j]}</span>`);
-            }
-          }
-        }
-        el.appendTo($("#changelog-container"));
-      }
-
-      if (json.length <= 0) {
-        $("#changelog-container").text("No commits !? xO");
-      }
-    }
-  ).fail(function () {
-    $("#changelog-container").text("Error while loading changelog :'(");
-  });
-
-  function set_theme(dark) {
+    function set_theme(dark) {
     var dark = dark || false;
 
     window.localStorage.setItem("dark", dark);
