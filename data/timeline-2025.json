@@ -24,6 +24,20 @@
         "bttf": false
     },
     {
+        "module": "C.N.A. - Trading",
+        "project": "Groundhog",
+        "start": "2022-05-09",
+        "end": "2022-05-15",
+        "bttf": true
+    },
+    {
+        "module": "C.N.A. - Trading",
+        "project": "Trade",
+        "start": "2022-06-13",
+        "end": "2022-06-19",
+        "bttf": true
+    },
+    {
       "module": "DevOps",
       "project": "my_marvin",
       "start": "2022-02-28",
@@ -54,15 +68,22 @@
     {
       "module": "Functional Prog.",
       "project": "Wolfram",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-03-28",
+      "end": "2022-04-03",
+      "bttf": true
+    },
+    {
+      "module": "Functional Prog.",
+      "project": "Wolfram",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
       "module": "Functional Prog.",
       "project": "Img Compr.",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
@@ -82,22 +103,22 @@
     {
       "module": "Network Prog.",
       "project": "my_ftp",
-      "start": "2022-05-05",
-      "end": "2022-05-11",
+      "start": "2022-05-09",
+      "end": "2022-05-15",
       "bttf": true
     },
     {
       "module": "Network Prog.",
       "project": "my_ftp",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
       "module": "Network Programming",
       "project": "my_teams",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
@@ -117,29 +138,29 @@
     {
       "module": "Object-Oriented Programming",
       "project": "NTS",
-      "start": "2022-03-24",
-      "end": "2022-03-30",
+      "start": "2022-03-28",
+      "end": "2022-04-03",
       "bttf": true
     },
     {
       "module": "Object-Oriented Programming",
       "project": "Arcade",
-      "start": "2022-05-05",
-      "end": "2022-05-11",
+      "start": "2022-05-09",
+      "end": "2022-05-15",
       "bttf": true
     },
     {
       "module": "Object-Oriented Programming",
       "project": "NTS",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
       "module": "Object-Oriented Programming",
       "project": "Arcade",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
@@ -180,29 +201,29 @@
     {
       "module": "Unix Prog. - Memory",
       "project": "malloc",
-      "start": "2022-03-24",
+      "start": "2022-03-28",
       "end": "2022-04-03",
       "bttf": true
     },
     {
       "module": "Unix Prog. - Memory",
       "project": "objdump",
-      "start": "2022-03-24",
-      "end": "2022-03-30",
+      "start": "2022-03-28",
+      "end": "2022-04-03",
       "bttf": true
     },
     {
       "module": "Unix Prog. - Memory",
       "project": "malloc",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
       "module": "Unix Prog. - Memory",
       "project": "objdump",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
@@ -215,15 +236,15 @@
     {
       "module": "x86-64 Assembly",
       "project": "MiniLibC",
-      "start": "2022-03-24",
-      "end": "2022-03-30",
+      "start": "2022-03-28",
+      "end": "2022-03-04",
       "bttf": true
     },
     {
       "module": "x86-64 Assembly",
       "project": "MiniLibC",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
       "bttf": true
     },
     {
