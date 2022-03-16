@@ -10,41 +10,6 @@
       "bttf": false
     },
     {
-      "module": "Concurrent Programming",
-      "project": "Time To Eat",
-      "start": "2022-04-07",
-      "end": "2022-04-20",
-      "bttf": false
-    },
-    {
-      "module": "Concurrent Programming",
-      "project": "The Plazza",
-      "start": "2022-04-21",
-      "end": "2022-05-18",
-      "bttf": false
-    },
-    {
-      "module": "Concurrent Programming",
-      "project": "Time To Eat",
-      "start": "2022-05-05",
-      "end": "2022-05-15",
-      "bttf": true
-    },
-    {
-      "module": "Concurrent Programming",
-      "project": "Time To Eat",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
-      "bttf": true
-    },
-    {
-      "module": "Concurrent Programming",
-      "project": "The Plazza",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
-      "bttf": true
-    },
-    {
       "module": "DevOps",
       "project": "my_marvin",
       "start": "2022-02-24",
@@ -53,7 +18,7 @@
     },
     {
       "module": "DevOps",
-      "project": "Ansible",
+      "project": "Octopus",
       "start": "2022-03-24",
       "end": "2022-04-13",
       "bttf": false
@@ -85,69 +50,6 @@
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
-    },
-    {
-      "module": "Mathematics",
-      "project": "201yams",
-      "start": "2022-02-10",
-      "end": "2022-02-23",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "202unsold",
-      "start": "2022-02-24",
-      "end": "2022-03-09",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "203hotline",
-      "start": "2022-03-10",
-      "end": "2022-03-23",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "204ducks",
-      "start": "2022-03-24",
-      "end": "2022-04-06",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "205IQ",
-      "start": "2022-04-07",
-      "end": "2022-04-20",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "206neutrinos",
-      "start": "2022-04-21",
-      "end": "2022-05-04",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "207demography",
-      "start": "2022-04-28",
-      "end": "2022-05-11",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "208dowels",
-      "start": "2022-05-05",
-      "end": "2022-05-18",
-      "bttf": false
-    },
-    {
-      "module": "Mathematics",
-      "project": "209poll",
-      "start": "2022-05-12",
-      "end": "2022-05-25",
-      "bttf": false
     },
     {
       "module": "Network Programming",
@@ -235,59 +137,17 @@
     },
     {
       "module": "Professional Writing",
-      "project": "Slideshow to win $1 million",
+      "project": "Slideshow for $1M",
       "start": "2022-04-07",
       "end": "2022-04-20",
       "bttf": false
     },
     {
       "module": "Professional Writing",
-      "project": "Experience Report",
+      "project": "Exp. Report",
       "start": "2022-05-12",
       "end": "2022-05-25",
       "bttf": false
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "strace",
-      "start": "2022-03-17",
-      "end": "2022-04-06",
-      "bttf": false
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "ftrace",
-      "start": "2022-04-07",
-      "end": "2022-05-04",
-      "bttf": false
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "strace",
-      "start": "2022-05-05",
-      "end": "2022-05-11",
-      "bttf": true
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "ftrace",
-      "start": "2022-05-05",
-      "end": "2022-05-11",
-      "bttf": true
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "strace",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
-      "bttf": true
-    },
-    {
-      "module": "Unix Prog. - Instrumentation",
-      "project": "ftrace",
-      "start": "2022-06-09",
-      "end": "2022-06-15",
-      "bttf": true
     },
     {
       "module": "Unix Prog. - Memory",
