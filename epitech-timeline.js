@@ -138,7 +138,7 @@ function nowLine(div) {
   });
 }
 
-var repourl = "https://gitlab.com/epi-codes/Epitech-2023-Timeline";
+var repourl = "https://github.com/Perry-chouteau/myTech2Timeline.v2";
 $(document).ready(function () {
   $.getJSON(
     "https://gitlab.com/api/v4/projects/epi-codes%2fEpitech-2023-Timeline/repository/commits",
