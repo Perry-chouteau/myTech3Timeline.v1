@@ -5,75 +5,89 @@
     {
       "module": "Cyber Security",
       "project": "Hydra",
-      "start": "2022-03-03",
-      "end": "2022-03-30",
+      "start": "2022-03-07",
+      "end": "2022-04-03",
       "bttf": false
+    },
+    {
+        "module": "C.N.A. - Trading",
+        "project": "Groundhog",
+        "start": "2022-03-07",
+        "end": "2022-03-21",
+        "bttf": false
+    },
+    {
+        "module": "C.N.A. - Trading",
+        "project": "Trade",
+        "start": "2022-04-18",
+        "end": "2022-05-15",
+        "bttf": false
     },
     {
       "module": "DevOps",
       "project": "my_marvin",
-      "start": "2022-02-24",
-      "end": "2022-03-23",
+      "start": "2022-02-28",
+      "end": "2022-03-27",
       "bttf": false
     },
     {
       "module": "DevOps",
       "project": "Octopus",
-      "start": "2022-03-24",
-      "end": "2022-04-13",
+      "start": "2022-03-28",
+      "end": "2022-04-17",
       "bttf": false
     },
     {
-      "module": "Functional programming",
+      "module": "Functional Prog.",
       "project": "Wolfram",
-      "start": "2022-02-24",
-      "end": "2022-03-09",
+      "start": "2022-02-28",
+      "end": "2022-03-13",
       "bttf": false
     },
     {
-      "module": "Functional programming",
+      "module": "Functional Prog.",
       "project": "Image Compressor",
-      "start": "2022-03-31",
+      "start": "2022-04-04",
       "end": "2022-05-08",
       "bttf": false
     },
     {
-      "module": "Functional programming",
+      "module": "Functional Prog.",
       "project": "Wolfram",
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
     },
     {
-      "module": "Functional programming",
+      "module": "Functional Prog.",
       "project": "Image Compressor",
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
     },
     {
-      "module": "Network Programming",
+      "module": "Network Prog.",
       "project": "my_ftp",
-      "start": "2022-03-31",
+      "start": "2022-04-04",
       "end": "2022-04-24",
       "bttf": false
     },
     {
-      "module": "Network Programming",
+      "module": "Network Prog.",
       "project": "my_teams",
-      "start": "2022-04-28",
-      "end": "2022-06-01",
+      "start": "2022-05-02",
+      "end": "2022-06-05",
       "bttf": false
     },
     {
-      "module": "Network Programming",
+      "module": "Network Prog.",
       "project": "my_ftp",
       "start": "2022-05-05",
       "end": "2022-05-11",
       "bttf": true
     },
     {
-      "module": "Network Programming",
+      "module": "Network Prog.",
       "project": "my_ftp",
       "start": "2022-06-09",
       "end": "2022-06-15",
@@ -89,15 +103,15 @@
     {
       "module": "Object-Oriented Programming",
       "project": "NanoTekSpice",
-      "start": "2022-02-03",
-      "end": "2022-03-02",
+      "start": "2022-02-07",
+      "end": "2022-03-06",
       "bttf": false
     },
     {
       "module": "Object-Oriented Programming",
       "project": "Arcade",
-      "start": "2022-03-03",
-      "end": "2022-04-06",
+      "start": "2022-03-07",
+      "end": "2022-04-10",
       "bttf": false
     },
     {
@@ -131,36 +145,36 @@
     {
       "module": "Professional Writing",
       "project": "Delicate Mission - Pull back into line",
-      "start": "2022-03-10",
-      "end": "2022-03-23",
+      "start": "2022-03-13",
+      "end": "2022-03-27",
       "bttf": false
     },
     {
       "module": "Professional Writing",
       "project": "Slideshow for $1M",
-      "start": "2022-04-07",
-      "end": "2022-04-20",
+      "start": "2022-04-11",
+      "end": "2022-04-24",
       "bttf": false
     },
     {
       "module": "Professional Writing",
       "project": "Exp. Report",
-      "start": "2022-05-12",
+      "start": "2022-05-16",
       "end": "2022-05-25",
       "bttf": false
     },
     {
       "module": "Unix Prog. - Memory",
       "project": "malloc",
-      "start": "2022-02-03",
-      "end": "2022-02-16",
+      "start": "2022-02-07",
+      "end": "2022-02-20",
       "bttf": false
     },
     {
       "module": "Unix Prog. - Memory",
       "project": "nm/objdump",
-      "start": "2022-02-17",
-      "end": "2022-03-09",
+      "start": "2022-02-21",
+      "end": "2022-03-13",
       "bttf": false
     },
     {
@@ -194,8 +208,8 @@
     {
       "module": "x86-64 Assembly",
       "project": "MiniLibC",
-      "start": "2022-02-10",
-      "end": "2022-03-02",
+      "start": "2022-02-14",
+      "end": "2022-03-06",
       "bttf": false
     },
     {
@@ -215,15 +229,15 @@
     {
       "module": "Year-End-Project - Indie Studio",
       "project": "Indie Studio",
-      "start": "2022-05-05",
+      "start": "2022-05-09",
       "end": "2022-06-19",
       "bttf": false
     },
     {
       "module": "Year-End-Project - Zappy",
       "project": "Zappy",
-      "start": "2022-05-12",
-      "end": "2022-06-22",
+      "start": "2022-05-16",
+      "end": "2022-06-26",
       "bttf": false
     }
   ]
