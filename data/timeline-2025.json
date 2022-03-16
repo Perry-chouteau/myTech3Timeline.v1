@@ -60,7 +60,7 @@
     },
     {
       "module": "Functional Prog.",
-      "project": "Image Compressor",
+      "project": "Img Compr.",
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
@@ -116,7 +116,7 @@
     },
     {
       "module": "Object-Oriented Programming",
-      "project": "NanoTekSpice",
+      "project": "NTS",
       "start": "2022-03-24",
       "end": "2022-03-30",
       "bttf": true
@@ -130,7 +130,7 @@
     },
     {
       "module": "Object-Oriented Programming",
-      "project": "NanoTekSpice",
+      "project": "NTS",
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
@@ -186,7 +186,7 @@
     },
     {
       "module": "Unix Prog. - Memory",
-      "project": "nm/objdump",
+      "project": "objdump",
       "start": "2022-03-24",
       "end": "2022-03-30",
       "bttf": true
@@ -200,7 +200,7 @@
     },
     {
       "module": "Unix Prog. - Memory",
-      "project": "nm/objdump",
+      "project": "objdump",
       "start": "2022-06-09",
       "end": "2022-06-15",
       "bttf": true
