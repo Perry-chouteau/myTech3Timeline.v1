@@ -1,34 +1,12 @@
 # Epitech Timeline
 
-## Testing
-
-### Static
+## Edition
 
 You need to symlink `data.json` to any of the datasets in `/data`. For example :
 
 ``` sh
-ln -s data/timeline-2023.json data.json
+ln -s data/timeline-2025.json data.json
 ```
-
-If you have Python 3, you can start a static server locally on port 8000 :
-
-``` sh
-python3 -m http.server
-```
-
-### Nginx
-
-Include the file `timeline.conf` in your nginx server config, and set the
-variable `$timeline_path` to the absolute path of the repository.
-
-``` nginx
-set $timeline_path /path/to/timeline;
-include $timeline_path/timeline.conf;
-```
-
-The timeline will be available from the `/$promo/timeline` route, and the data
-from the `/$promo/timeline/data.json`, where `$promo` is the promotion name of
-one of the datasets.
 
 ## Data format
 
