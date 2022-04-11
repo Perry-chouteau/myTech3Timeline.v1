@@ -3,6 +3,41 @@
   "semester": 4,
   "projects": [
     {
+      "module": "Concurent Prog",
+      "project": "Panoramix",
+      "start": "2022-04-11",
+      "end": "2022-04-24",
+      "bttf": false
+    },
+    {
+      "module": "Concurent Prog",
+      "project": "Plazza",
+      "start": "2022-04-25",
+      "end": "2022-05-22",
+      "bttf": false
+    },
+    {
+      "module": "Concurent Prog",
+      "project": "Panoramix",
+      "start": "2022-05-09",
+      "end": "2022-05-15",
+      "bttf": true
+    },    
+    {
+      "module": "Concurent Prog",
+      "project": "Panoramix",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
+      "bttf": true
+    },
+    {
+      "module": "Concurent Prog",
+      "project": "Plazza",
+      "start": "2022-06-13",
+      "end": "2022-06-19",
+      "bttf": true
+    },
+    {
       "module": "Cyber Security",
       "project": "Hydra",
       "start": "2022-03-07",
