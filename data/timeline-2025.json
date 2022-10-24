@@ -3,17 +3,143 @@
   "semester": 5,
   "projects": [
     {
-      "module": "Cpp",
+      "module": "Advanced C++",
       "project": "R-type",
-      "start": "2022-9-14",
-      "end": "2022-11-14",
+      "start": "2022-9-19",
+      "end": "2022-11-13",
+      "bttf": false
+    },
+    {
+      "module": "Application Development",
+      "project": "Area",
+      "start": "2023-01-09",
+      "end": "2023-03-05",
+      "bttf": false
+    },
+    {
+      "module": "Artificial Intelligence",
+      "project": "Gomoku",
+      "start": "2022-11-14",
+      "end": "2022-12-04",
       "bttf": false
     },
     {
       "module": "DevOps",
       "project": "Bernstein",
-      "start": "2022-10-01",
-      "end": "2022-10-22",
+      "start": "2022-10-03",
+      "end": "2022-10-23",
+      "bttf": false
+    },
+    {
+      "module": "DevOps",
+      "project": "Bernstein",
+      "start": "2022-10-03",
+      "end": "2022-10-23",
+      "bttf": false
+    },
+    {
+      "module": "Hub",
+      "project": "HUB",
+      "start": "2022-09-01",
+      "end": "2023-03-31",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Artificial",
+      "start": "2022-09-01",
+      "end": "2023-03-31",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Network 1",
+      "start": "2022-11-21",
+      "end": "2022-11-27",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Network 2",
+      "start": "2022-12-05",
+      "end": "2022-12-11",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Network 3",
+      "start": "2022-12-19",
+      "end": "2022-12-25",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "Devil's Advocate",
+      "start": "2022-09-19",
+      "end": "2022-10-02",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "3emails",
+      "start": "2022-10-10",
+      "end": "2022-10-23",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "Professional memo",
+      "start": "2022-10-31",
+      "end": "2022-11-13",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "The Geek Magazine",
+      "start": "2022-11-21",
+      "end": "2023-01-15",
+      "bttf": false
+    },31/03/2023
+    {
+      "module": "PCP development",
+      "project": "PCP development",
+      "start": "2022-09-01",
+      "end": "2023-03-31",
+      "bttf": false
+    },
+    {
+      "module": "Internship",
+      "project": "Internship",
+      "start": "2023-03-31",
+      "end": "2023-08-30",
+      "bttf": false
+    },
+    {
+      "module": "Internship",
+      "project": "Report/Evaluation/Defense",
+      "start": "2023-07-03",
+      "end": "2023-07-23",
+      "bttf": false
+    },
+    {
+      "module": "Extra Curricular Engagement",
+      "project": "2022",
+      "start": "2022-09-01",
+      "end": "2023-12-31",
+      "bttf": false
+    },
+    {
+      "module": "Extra Curricular Engagement",
+      "project": "2023",
+      "start": "2023-01-01",
+      "end": "2023-03-31",
+      "bttf": false
+    },
+    {
+      "module": "Promoting Epitech",
+      "project": "Promoting Epitech",
+      "start": "2022-09-01",
+      "end": "2023-03-31",
       "bttf": false
     }
   ]
