@@ -32,9 +32,9 @@
     },
     {
       "module": "DevOps",
-      "project": "Bernstein",
-      "start": "2022-10-03",
-      "end": "2022-10-23",
+      "project": "Whanos",
+      "start": "2023-01-30",
+      "end": "2022-02-26",
       "bttf": false
     },
     {
@@ -70,6 +70,27 @@
       "project": "Network 3",
       "start": "2022-12-19",
       "end": "2022-12-25",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Artificial 1",
+      "start": "2023-01-09",
+      "end": "2023-01-15",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Artificial 2",
+      "start": "2023-01-23",
+      "end": "2023-01-29",
+      "bttf": false
+    },
+    {
+      "module": "KYTKAT",
+      "project": "Artificial 3",
+      "start": "2023-02-06",
+      "end": "2023-02-12",
       "bttf": false
     },
     {
